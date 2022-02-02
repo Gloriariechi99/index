@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+form{
+    background-color: gray;
+    border: 1px solid black;
+    padding: 20px;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.logo{
+    max-width: 100%;
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.aoi{
+    border: 1px solid black;
+}
+.mainheaders{
+    text-align: center;
+    margin-right: 50px;
+    display: inline;
+}
+body{
+    background: linear-gradient(to bottom, rgba( 204, 229, 255), rgba(204, 229, 255, 0.5));
+    font-size: 1.25em;
+   /text-align: justify;
+    font-family:"Lato", sans-serif;
+    margin-top: 40px;
+}
+.regform{
+    width: 800px;
+    text-align: justify;
+    margin: auto;
+    color: black;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    font-size: 50px;
+    
+}
+.main{
+    background-color: rgba(204, 229, 255, 0.5);
+    width: 80%;
+    margin: auto;
+}
+
+div{
+    width: 75%;
+    padding: 10px 12px;
+    box-sizing: border-box;
+    margin: 9px;
+}
+#theSubmitButton{
+    background-color: rgb(9, 13, 235);
+    color: rgb(37, 3, 3);
+    padding: 5px 5px;
+    width: 40%;
+    margin: 20px 10px;
+	padding: 10px 15px;
+	border: none;
+	text-decoration: none;
+    text-align: center;
+}
+.insurance-page{
+    text-decoration-color: hotpink;
+    text-decoration: none;
+}
+.layout{
+    position: relative;
+    left: 200px;
+    top: -37px;
+    line-height: 40px;
+    border-radius: 6px;
+    font-size: 16px;
+    width: 80%;
+    text-transform: capitalize;
+    right: 299px;
+}
+label{
+    display: inline-block;
+    width: 200px;
+    text-align: left;
+}
+.radio{
+    display: inline-block;
+    padding-right: 70px;
+    font-size: 25px;
+    margin-left: 15px;
+    color: black;
+}
+.radioinput{
+    width: 50px;
+}
